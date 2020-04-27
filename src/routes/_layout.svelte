@@ -20,3 +20,7 @@
 <main>
 	<slot></slot>
 </main>
+
+<footer>
+	hola soy el footer
+</footer>
