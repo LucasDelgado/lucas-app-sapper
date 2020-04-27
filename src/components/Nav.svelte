@@ -43,7 +43,6 @@
 	}
 
 	a {
-		text-decoration: none;
 		padding: 1em 0.5em;
 		display: block;
 	}
